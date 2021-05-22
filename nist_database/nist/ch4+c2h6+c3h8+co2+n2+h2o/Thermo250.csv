@@ -1,0 +1,6 @@
+﻿Number of Data;Title;Authors;Source;Year;Compounds;T (K);p (kPa);nC2H6/nCH4;nC3H8/nCH4;nN2/nCH4;nCO2/nCH4
+Dataset 250;Natural gas hydrates ;Wilcox, W. I., carson, D. B.[Don B.] and Katz, D. L.[Donald L.];Ind. Eng. Chem. 33, 662;1941;CH4 + C2H6 + C3H8 + CO2 + N2 + H2O in Hydrate + Aqueous Liquid + Vapor;277.7;1600;0.0456;0.0173;0.0046;0.0055
+Dataset 250;Natural gas hydrates ;Wilcox, W. I., carson, D. B.[Don B.] and Katz, D. L.[Donald L.];Ind. Eng. Chem. 33, 662;1941;CH4 + C2H6 + C3H8 + CO2 + N2 + H2O in Hydrate + Aqueous Liquid + Vapor;283.9;3392;0.0456;0.0173;0.0046;0.0055
+Dataset 250;Natural gas hydrates ;Wilcox, W. I., carson, D. B.[Don B.] and Katz, D. L.[Donald L.];Ind. Eng. Chem. 33, 662;1941;CH4 + C2H6 + C3H8 + CO2 + N2 + H2O in Hydrate + Aqueous Liquid + Vapor;289.2;6964;0.0456;0.0173;0.0046;0.0055
+Dataset 250;Natural gas hydrates ;Wilcox, W. I., carson, D. B.[Don B.] and Katz, D. L.[Donald L.];Ind. Eng. Chem. 33, 662;1941;CH4 + C2H6 + C3H8 + CO2 + N2 + H2O in Hydrate + Aqueous Liquid + Vapor;292;10501;0.0456;0.0173;0.0046;0.0055
+Dataset 250;Natural gas hydrates ;Wilcox, W. I., carson, D. B.[Don B.] and Katz, D. L.[Donald L.];Ind. Eng. Chem. 33, 662;1941;CH4 + C2H6 + C3H8 + CO2 + N2 + H2O in Hydrate + Aqueous Liquid + Vapor;293.3;14127;0.0456;0.0173;0.0046;0.0055
